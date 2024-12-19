@@ -4,21 +4,21 @@ I am a passionate and driven Computer Science graduate with a focus on Embedded 
 
 ### 🎓 Education:
 - **BSc in Computer Science**  
-  (Details of your university or college and the duration can be added if necessary)
+Laxminarayana arts and science college for women 
 - **Embedded Systems Course**  
-  (Name of the institution or platform, and any relevant details)
+  Bytes in bits
 
 ### 🛠️ Technical Skills:
 - **Programming Languages:**  
-  C, C++, Python, Java, JavaScript, HTML, CSS, SQL
+  C, JavaScript, HTML, CSS, SQL
 - **Embedded Systems:**  
-  Microcontrollers (e.g., Arduino, Raspberry Pi), Real-Time Operating Systems (RTOS), GPIO, I2C/SPI Communication, Sensors, Actuators
+  Microcontrollers (e.g., Arduino, Pic16f877a,esp8266,stm,bluetooth,), Real-Time Operating Systems (RTOS), GPIO, I2C/SPI Communication, Sensors, Actuators
 - **Development Tools:**  
-  Visual Studio Code, Eclipse, Keil, Arduino IDE, Proteus
+  Visual Studio Code, Arduino IDE, Proteus
 - **Web Development:**  
   HTML, CSS, JavaScript, React.js, Node.js
 - **Databases:**  
-  MySQL, MongoDB
+  MySQL
 - **Version Control:**  
   Git, GitHub
 - **Software Development:**  
@@ -27,13 +27,11 @@ I am a passionate and driven Computer Science graduate with a focus on Embedded 
   Firmware development, Embedded C, Interfacing sensors and actuators
 
 ### 💻 Projects:
-- **[Project 1 Name]**  
-  A brief description of the project. What problem did it solve? What technologies did you use?  
-  *Link to the repository or project demo.*
+- **[Smart based RFID payment system]**  
+*RFID-based payment system using Embedded C offers a fast, secure, and efficient way to make payments. It’s easy to deploy in places like stores or public transport, providing simple, contactless transactions.*
 
-- **[Project 2 Name]**  
-  Another description of a project you've worked on related to embedded systems or computer science.  
-  *Link to the repository or project demo.*
+- **[College local map guide]**  
+  *A college local map guide with voice assistance helps users navigate campus using an interactive map. It combines HTML, CSS, JavaScript, and speech APIs for voice recognition and text-to-speech.*
 
 ### 🚀 Future Goals:
 - Dive deeper into **IoT (Internet of Things)** and **AI for Embedded Systems**.
@@ -42,8 +40,7 @@ I am a passionate and driven Computer Science graduate with a focus on Embedded 
 
 ### 🌱 Currently Learning:
 - Advanced topics in **Embedded Systems Design**.
-- **Machine Learning** and **AI** applications in embedded devices.
-- **Cloud Computing** and how it integrates with IoT.
+
 
 ### 📫 How to Reach Me:
-Feel free to connect with me on [LinkedIn](your-linkedin-link) or reach out via email at [your-email@example.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tharani-sagadevan24) or reach out via email at [tharanisagadevan24@.com].
